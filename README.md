@@ -11,7 +11,7 @@ Introduction
 Exploratory data analysis (EDA) is a key step in the data analysis process. It helps to understand the data, detect patterns and relationships, and identify potential outliers and anomalies. This project uses Python and various data analysis libraries to perform EDA on TATAMOTORS stock data and gain insights into the company's performance over time.
 
 Data
-The TATAMOTORS stock data is obtained from www.nseindia.com. The data includes daily stock prices and trading volumes for the period from March 10, 2021 to March 10, 2023.
+The TATAMOTORS stock data is obtained from www.nseindia.com. The data includes daily stock prices and trading volumes for the period from March 10, 2021 to March 10, 2023. The obtained data is cleaned thoroughly before analysis.
 
 Installation
 To run the code in this project, you will need to have Python 3.x installed on your computer, along with the following libraries:
