@@ -29,7 +29,7 @@ To run the code in this project, follow these steps:
 
 Clone the repository to your local machine.
 Open a terminal window and navigate to the project directory.
-Run the TATAMOTORS_EDA.py Jupyter notebook.
+Run the TATAMOTORS EDA.py Jupyter notebook.
 The notebook contains all the code necessary to perform the EDA and generate the visualizations. You can modify the code and experiment with different data analysis techniques to gain more insights into the TATAMOTORS stock data.
 
 License
